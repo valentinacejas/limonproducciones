@@ -1,0 +1,127 @@
+* {
+    margin: center;
+
+
+}
+
+header {
+    margin: 0%;
+    width: auto;
+    height: 400px;
+    opacity: 90%;
+    /* background-image: url("img/44894270_963592863848785_7876836490330767360_n.jpg") */
+    background-color: rgb(225, 232, 83);
+}
+
+h1 {
+
+    text-align: center;
+    margin-top: 90px;
+    font-size: 60px;
+    padding: 50px;
+}
+
+nav {
+    text-align: right;
+    font-size: 30px;
+    margin: 0px;
+    background-color: #fff;
+
+
+
+
+
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    margin-inline: 10px;
+
+}
+
+a:hover {
+    color: #bbf90e !important;
+}
+
+h2.multimedia {
+    text-align: center;
+    margin-top: 30px;
+    padding: 30px;
+    font-size: 50px;
+
+    height: 100px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1100px;
+
+
+
+}
+
+.card {
+    /* width: 100%; */
+    /* margin: 20px; */
+    /* overflow: hidden ; */
+    background: #fff;
+    margin: 0px 40px 100px 90px;
+    float: left;
+    width: 350px;
+    font-size: 20px;
+    text-align: center;
+
+
+
+
+
+}
+
+.card h3 {
+    margin-bottom: 0%;
+}
+
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+
+
+
+
+
+
+}
+
+a.ver-mas {
+    color: black;
+
+}
+
+h2.consultas {
+    font-size: 50px;
+    text-align: center;
+}
+
+footer {
+    background-color: #e4e7dc;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+a.fa-brands.fa-facebook-f{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin-inline: 10px;
+}
+a.fa-brands.fa-instagram{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin-inline: 10px;
+}
