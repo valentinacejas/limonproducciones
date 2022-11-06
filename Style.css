@@ -5,13 +5,23 @@
 }
 
 header {
+    display: flex;
     margin: 0%;
     width: auto;
     height: 400px;
-    opacity: 90%;
+    justify-content: space-between;
+    align-items: center;
     /* background-image: url("img/44894270_963592863848785_7876836490330767360_n.jpg") */
     background-color: rgb(225, 232, 83);
 }
+@media (max-width:700px){
+    header{
+        flex-direction: column;
+    }
+    nav{
+        padding: 10px 0px;
+    }
+}   
 
 h1 {
 
